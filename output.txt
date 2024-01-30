@@ -1,0 +1,5 @@
+Computername:F-414-PC
+Username:F-414
+BIOS: ............
+Baseboard: QSBT21610954
+Office: 12

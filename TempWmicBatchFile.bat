@@ -1,0 +1,1 @@
+bios get serialnumberexit
