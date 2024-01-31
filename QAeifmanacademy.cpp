@@ -437,7 +437,7 @@ void saveresultik(HWND hWnd)
         }
         else {
             CString msgstr;
-            msgstr = (LPSTR)"База повреждена сообщите Администратору";
+            msgstr = "База повреждена сообщите Администратору";
             MessageBox(hWnd, msgstr, L"Спасибо!", MB_OK);
         };
         file2.close();
